@@ -1,0 +1,23 @@
+import sys
+
+with open('output.txt') as ff:
+    lines = ff.readlines()
+
+info = ''
+prnt = False
+for line in lines:
+    if 'time' in line:
+        info += '(' + line[6:-1] + ', '
+    if "UUIDs = dbus.Array" in line:
+        if "UUIDs = dbus.Array([dbus.String('" in line:
+            info += line[37:73] + ', '
+            prnt = True
+    if 'RSSI' in line:
+        info += line[12:-1] + ')'
+        if prnt:
+            print(info)
+            prnt = False
+            info = ''
+        else:
+            prnt = False
+            info = ''

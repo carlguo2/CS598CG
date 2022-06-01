@@ -1,0 +1,183 @@
+time: 1651210079.882362
+[ 21:B8:16:69:D6:55 ]
+    Address = b'21:B8:16:69:D6:55'
+    AddressType = b'random'
+    Alias = b'21-B8-16-69-D6-55'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -90
+    Connected = 0
+    UUIDs = dbus.Array([], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ManufacturerData = dbus.Dictionary({dbus.UInt16(76): dbus.Array([dbus.Byte(9), dbus.Byte(6), dbus.Byte(3), dbus.Byte(99), dbus.Byte(10), dbus.Byte(193), dbus.Byte(253), dbus.Byte(188)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('qv'), variant_level=1)
+    ServicesResolved = 0
+
+time: 1651210079.97705
+[ 45:09:6C:CD:1B:56 ]
+    Address = b'45:09:6C:CD:1B:56'
+    AddressType = b'random'
+    Alias = b'45-09-6C-CD-1B-56'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -85
+    Connected = 0
+    UUIDs = dbus.Array([], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ManufacturerData = dbus.Dictionary({dbus.UInt16(117): dbus.Array([dbus.Byte(2), dbus.Byte(24), dbus.Byte(33), dbus.Byte(161), dbus.Byte(23), dbus.Byte(109), dbus.Byte(97), dbus.Byte(34), dbus.Byte(198), dbus.Byte(144), dbus.Byte(192), dbus.Byte(196), dbus.Byte(45), dbus.Byte(149), dbus.Byte(72), dbus.Byte(122), dbus.Byte(44), dbus.Byte(235)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('qv'), variant_level=1)
+    ServicesResolved = 0
+
+time: 1651210080.381155
+[ 2B:10:5E:EC:A3:B1 ]
+    Address = b'2B:10:5E:EC:A3:B1'
+    AddressType = b'random'
+    Alias = b'2B-10-5E-EC-A3-B1'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -93
+    Connected = 0
+    UUIDs = dbus.Array([], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ManufacturerData = dbus.Dictionary({dbus.UInt16(76): dbus.Array([dbus.Byte(9), dbus.Byte(6), dbus.Byte(3), dbus.Byte(164), dbus.Byte(0), dbus.Byte(0), dbus.Byte(0), dbus.Byte(0)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('qv'), variant_level=1)
+    ServicesResolved = 0
+
+time: 1651210080.5474648
+[ 66:61:17:37:C8:50 ]
+    Address = b'66:61:17:37:C8:50'
+    AddressType = b'random'
+    Alias = b'66-61-17-37-C8-50'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -90
+    Connected = 0
+    UUIDs = dbus.Array([], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ManufacturerData = dbus.Dictionary({dbus.UInt16(76): dbus.Array([dbus.Byte(16), dbus.Byte(5), dbus.Byte(5), dbus.Byte(24), dbus.Byte(182), dbus.Byte(84), dbus.Byte(174)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('qv'), variant_level=1)
+    TxPower = 10
+    ServicesResolved = 0
+
+time: 1651210080.6123192
+[ 28:FF:3C:97:BF:6D ]
+    Address = b'28:FF:3C:97:BF:6D'
+    AddressType = b'public'
+    Alias = b'28-FF-3C-97-BF-6D'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -95
+    Connected = 0
+    UUIDs = dbus.Array([], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ManufacturerData = dbus.Dictionary({dbus.UInt16(76): dbus.Array([dbus.Byte(16), dbus.Byte(5), dbus.Byte(1), dbus.Byte(16), dbus.Byte(101), dbus.Byte(53), dbus.Byte(247)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('qv'), variant_level=1)
+    TxPower = 12
+    ServicesResolved = 0
+
+time: 1651210081.064395
+[ 55:CC:46:D2:E9:70 ]
+    Address = b'55:CC:46:D2:E9:70'
+    AddressType = b'random'
+    Alias = b'55-CC-46-D2-E9-70'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -96
+    Connected = 0
+    UUIDs = dbus.Array([], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ManufacturerData = dbus.Dictionary({dbus.UInt16(76): dbus.Array([dbus.Byte(16), dbus.Byte(6), dbus.Byte(12), dbus.Byte(29), dbus.Byte(62), dbus.Byte(56), dbus.Byte(71), dbus.Byte(24)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('qv'), variant_level=1)
+    TxPower = 5
+    ServicesResolved = 0
+
+time: 1651210082.6202617
+[ 04:CD:15:6C:7D:58 ]
+    Address = b'04:CD:15:6C:7D:58'
+    AddressType = b'public'
+    Name = b'RPC-TD214810698'
+    Alias = b'RPC-TD214810698'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -98
+    Connected = 0
+    UUIDs = dbus.Array([], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ManufacturerData = dbus.Dictionary({dbus.UInt16(694): dbus.Array([dbus.Byte(115), dbus.Byte(73), dbus.Byte(1), dbus.Byte(0), dbus.Byte(6), dbus.Byte(33), dbus.Byte(42), dbus.Byte(84), dbus.Byte(68), dbus.Byte(50), dbus.Byte(49), dbus.Byte(52), dbus.Byte(56), dbus.Byte(49), dbus.Byte(48), dbus.Byte(54), dbus.Byte(57), dbus.Byte(56)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('qv'), variant_level=1)
+    ServicesResolved = 0
+
+time: 1651210082.9075058
+[ 68:64:4B:42:6D:03 ]
+    Address = b'68:64:4B:42:6D:03'
+    AddressType = b'public'
+    Alias = b'68-64-4B-42-6D-03'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -98
+    Connected = 0
+    UUIDs = dbus.Array([], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ManufacturerData = dbus.Dictionary({dbus.UInt16(76): dbus.Array([dbus.Byte(9), dbus.Byte(6), dbus.Byte(3), dbus.Byte(0), dbus.Byte(192), dbus.Byte(17), dbus.Byte(113), dbus.Byte(102)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('qv'), variant_level=1)
+    ServicesResolved = 0
+
+time: 1651210085.0680623
+[ F8:75:54:45:72:C5 ]
+    Address = b'F8:75:54:45:72:C5'
+    AddressType = b'random'
+    Alias = b'F8-75-54-45-72-C5'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -32
+    Connected = 0
+    UUIDs = dbus.Array([dbus.String('0000feed-0000-1000-8000-00805f9b34fb')], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ServiceData = dbus.Dictionary({dbus.String('0000feed-0000-1000-8000-00805f9b34fb'): dbus.Array([dbus.Byte(2), dbus.Byte(0), dbus.Byte(126), dbus.Byte(241), dbus.Byte(154), dbus.Byte(204), dbus.Byte(90), dbus.Byte(217), dbus.Byte(200), dbus.Byte(46)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('sv'), variant_level=1)
+    ServicesResolved = 0
+
+time: 1651210097.1067376
+[ 66:61:17:37:C8:50 ]
+    Address = b'66:61:17:37:C8:50'
+    AddressType = b'random'
+    Alias = b'66-61-17-37-C8-50'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -79
+    Connected = 0
+    UUIDs = dbus.Array([], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ManufacturerData = dbus.Dictionary({dbus.UInt16(76): dbus.Array([dbus.Byte(16), dbus.Byte(5), dbus.Byte(5), dbus.Byte(24), dbus.Byte(182), dbus.Byte(84), dbus.Byte(174)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('qv'), variant_level=1)
+    TxPower = 10
+    ServicesResolved = 0
+    Logged = True
+
+time: 1651210098.513985
+[ F8:75:54:45:72:C5 ]
+    Address = b'F8:75:54:45:72:C5'
+    AddressType = b'random'
+    Alias = b'F8-75-54-45-72-C5'
+    Paired = 0
+    Trusted = 0
+    Blocked = 0
+    LegacyPairing = 0
+    RSSI = -32
+    Connected = 0
+    UUIDs = dbus.Array([dbus.String('0000feed-0000-1000-8000-00805f9b34fb')], signature=dbus.Signature('s'), variant_level=1)
+    Adapter = /org/bluez/hci0
+    ServiceData = dbus.Dictionary({dbus.String('0000feed-0000-1000-8000-00805f9b34fb'): dbus.Array([dbus.Byte(2), dbus.Byte(0), dbus.Byte(174), dbus.Byte(221), dbus.Byte(125), dbus.Byte(67), dbus.Byte(156), dbus.Byte(212), dbus.Byte(149), dbus.Byte(224)], signature=dbus.Signature('y'), variant_level=1)}, signature=dbus.Signature('sv'), variant_level=1)
+    ServicesResolved = 0
+    Logged = True
+
